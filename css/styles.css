@@ -182,7 +182,7 @@ header {
     height: 100%;
     background-repeat: no-repeat;
     background-position: 46% 6%;
-    background-image: url('../img/face-a.jpg');
+    background-image: url('../img/avatar1.jpg');
     background-size: 172%;
     visibility: visible;
     -webkit-transform: rotate(-60deg);
@@ -195,7 +195,7 @@ header {
 }
 
 .hexagon-in2:hover {
-    background-image: url('../img/face-aa.jpg');
+    background-image: url('../img/avatar2.jpg');
     background-position: 17% 13%;
     background-size: 137%;
 }
